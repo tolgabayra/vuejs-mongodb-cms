@@ -12,6 +12,6 @@ Composition API,
 Features to be added;
 
 Send Mail => Nodemail, <br>
-Chat Application => Socket.io
-<img src="/cms.png" width="350">
+Chat Application => Socket.io <br>
+<img src="/cms.png" width="550">
 
